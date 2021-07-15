@@ -4,7 +4,7 @@
 - 💻 PHP,JAVA,FIREBASE,WORDPRESS,DRUPAL,JOOMLA,MYSQL
 - 💻 DOCKER,UML/MERISE...
 - 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on Big Company projects
+- 💞️ I’m looking to collaborate on Big Company's projects
 - 📫 Reach Me med.rezzouq@gmail.com, 🔗 Linkedin : https://ma.linkedin.com/in/mohammed-rezzouq-147428a8
 
 <!---

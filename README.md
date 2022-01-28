@@ -5,7 +5,7 @@
 - 💻 DOCKER,UML/MERISE...
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on Big Companies projects
-- 📫 Reach Me med.rezzouq@gmail.com, 🔗 Linkedin : https://ma.linkedin.com/in/mohammed-rezzouq-147428a8
+- 📫 Reach Me med.rezzouq@gmail.com, 🔗 Linkedin : https://ma.linkedin.com/in/mohammedrezzouq
 
 <!---
 I am a fullstack web developper

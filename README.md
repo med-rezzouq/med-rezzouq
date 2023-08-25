@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning AI/ML, and PIM Systems
 - 💞️ I’m looking to collaborate on Big Companies projects
 - 📫 Reach Me med.rezzouq@gmail.com, 🔗 Linkedin : https://ma.linkedin.com/in/medrezzouq
-
+- 🚩 Germany
 <!---
 I am a fullstack web developper
 --->

@@ -5,7 +5,7 @@
 - 💻 PIM/MDM Contentserv consultant
 - 💻 DOCKER,UML/MERISE...
 - 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on Big Companies projects
+- 💞️ I’m looking to collaborate on Big Companies projects.
 - 📫 Reach Me med.rezzouq@gmail.com, 🔗 Linkedin : https://ma.linkedin.com/in/medrezzouq
 - 🚩 Morocco
 <!---

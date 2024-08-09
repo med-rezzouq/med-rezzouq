@@ -1,7 +1,7 @@
 - 👋 Hi, I’m REZZOUQ MOHAMMED @med-rezzouq
 - 👀 I’m interested in Frontend/backend programming & Marketing.
 - 💻 JAVASCRIPT,CYPRESS,JQUERY,REACTJS,VUEJS,NUXTJS,ANGULAR,TAILWIND/BOOTSTRAP4/5,HTML/CSS/SASS
-- 💻 PHP,JAVA,FIREBASE,WORDPRESS,DRUPAL,JOOMLA,MYSQL,SALESFORCE MC
+- 💻 PHP,JAVA,FIREBASE,WORDPRESS,DRUPAL,JOOMLA,MYSQL,SALESFORCE MC.
 - 💻 PIM/MDM Contentserv consultant.
 - 💻 DOCKER,UML/MERISE...
 - 🌱 I’m currently learning AI/ML

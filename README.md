@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on Big Companies projects.
 - 📫 Reach Me med.rezzouq@gmail.com, 🔗 Linkedin : https://ma.linkedin.com/in/medrezzouq
-- 🚩 Morocco
+- 🚩 Morocco / oujda
 <!---
 I am a fullstack web developper
 --->
